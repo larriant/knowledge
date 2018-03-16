@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
+* [Philosophy of Mind](philosophyofmind.md)
 * [Neuroscience](neuroscience.md)
-* [Heamoglobin](heamoglobin.md)
-* [Psychology](psychology.md)
 
