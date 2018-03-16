@@ -19,3 +19,7 @@ The mind reflects the workings of the brain.
 There is strong evidence that the brain *is* involved in 
 Different parts of the brain are active during different parts of mental life.
 
+
+## To add
++ Consciousness
++ Free Will
