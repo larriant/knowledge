@@ -1,4 +1,4 @@
-# Three Simultaneous Communications
+# Three Simultaneous Conversations
 
 Idea that in any given conversation with friction in it, there’s actually three conversations happening. 
 
