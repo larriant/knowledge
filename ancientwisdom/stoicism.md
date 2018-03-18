@@ -94,25 +94,42 @@ Always try to engage in a Cost Benefit Analysis of Pleasure
 
 ### 4. Set Internal Goals
 
-Stoics will set internal rather than external goals.
+We have a choice in life: to concern ourselves with things external or things internal.
+
+A stoic will look for all benefit and harm to come from within himself.
+
+It is best to want those things that are easy to obtain.
+Ideally only want things that you can be certain of obtaining.
+
+Your primary desire should be:
+Not to be frustrated by forming desires you will not be able to fulfill.
+
+Thus:
+1. No anxiety about whether you will get what you want.
+2. No disappointment at NOT getting what you want.
+
+Even if we succeed in something that is not up to us.
+We will still be anxious on the way.
+
+*Stoics will set internal rather than external goals.*
 
 Goal in Tennis Match
-
 * To play tennis to the best of my ability
 * RATHER than to win at all costs
 
-Wife: To behave in a lovable manner.  
-Boss: To do my job to the best of my ability.
+Wife:
+* To behave in a lovable manner.  
 
-A novelist trying to get published.
+Boss:
+* To do my job to the best of my ability.
 
+A novelist trying to get published:
 * Did I work hard? Did I submit to enough publishers?
 * RATHER than I must get published at all costs
 
-Trying to get a girlfriend
-
+Trying to get a girlfriend:
 * Approach / Talk to x girls per week.
-* RATHER than I have to get a girlfriend at all costs.
+* *Rather* than I have to get a girlfriend at all costs.
 
 ### Stoic Checklist
 
@@ -136,7 +153,18 @@ Am I practicing the psychological techniques of stoicism?
 6. Should spend less time wishing things could be different.
 7. More outbursts of Joy!
 
-### 
+### Stoic Advice for Social Relations
+Other people:
++ Give us some of the best things in life: Love and Friendship.
+- But also are the cause of most of our negative emotions.
 
+Stoics feel like they have a DUTY to form and maintain relationships.
+For it is for this that they were created.
 
+However. We can be selective about who we befriend.
+We should seek friends who share our values.
+Or ideally are doing a better job of living stoically than we are.
 
+Vices are contageous. Avoid spending time with such people.
+
+Seeksorrow - Someone who contrives to give themselves vexation.
