@@ -7,6 +7,7 @@
 * Self Improvement
   * [Habits](selfimprovement/habits.md)
   * [Planning](selfimprovement/planning.md)
+  * [Decisions](selfimprovement/decisions.md)
 * [Ancient Wisdom](ancientwisdom/ancientwisdom.md)
   * [Stoicism](ancientwisdom/stoicism.md)
 * Psychology
