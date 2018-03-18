@@ -17,4 +17,3 @@
 * Psychology
   * [Cognitive Behavioural Therapy](psychology/cbt.md)
 
-
