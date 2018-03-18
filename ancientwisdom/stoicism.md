@@ -13,7 +13,7 @@ What is tranquility?
 
 ### 1. Distinguish between the Trichotomy of Control
 
-The Trichotomy of control says that everything in our mental lives fits into one of three categories:
+The _Trichotomy of Control_ says that everything in our mental lives fits into one of three categories:
 
 1. Things we have complete control over
    1. The goals that we set ourselves.
@@ -27,40 +27,40 @@ The Trichotomy of control says that everything in our mental lives fits into one
    1. A tennis match
    2. The love of a partner.
 
-Stoicism says 
+Stoicism says
 
 * We should try to concern ourselves primarily with things we \*can\* control.
 * And avoid dwelling on things we cannot control.
 
-### 2. Negative Visualisation
+### 2. Practice Negative Visualisation
 
 Imagining that the things you value in life are taken away from you.
 
-### Types
+#### Types
 
 * Loss of your relationships \(Death of Friends, Family, Lovers\)
 * Loss of your possessions \(House, Car, Clothes, Food\)
 * Loss of your life \(Cancer + only 2 weeks to live\)
 
-### Benefits
+#### Benefits
 
-1. Allows you to avoid hedonic adaption
-2. Ability to deal with losses that DO happen in your life
-3. Allows you to feel joy and more enjoyment of the things you do have
-
-Hedonic Adaption - Process of getting used to a situation
+1. Allows you to avoid hedonic adaption.
+   1. This is the process of getting used to our life circumstances.
+   2. They no longer give us joy because they've become routine.
+2. Ability to deal with losses that **DO** happen in your life.
+3. Allows you to feel joy and more enjoyment of the things you do have.
 
 A stoic looks at a glass and thinks how amazing it is that it exists,  
 how useful the glass is, and the effort that went into making it.
 
-### Possible Habits
+#### Possible Habits
 
 1. When you meet / say goodbye to someone
    1. Think that it might be the last time that you see them
 2. Before you eat - remind yourself how lucky you are to eat
    1. Think how lucky you are to have food
 
-### 3. Self Restraint
+### 3. Practice Self Restraint
 
 Trying to maximise comfort leads to LESS comfort.
 
@@ -74,7 +74,7 @@ For Example : Practice Poverty
 * Allow us to realise the things we could live without.
 * Often we work hard to obtain things that we could live without.
 
-### WHY?
+#### WHY?
 
 1. To harden ourselves against future misfortune.
 2. Less anxiety because you know you can deal with less.
@@ -82,7 +82,7 @@ For Example : Practice Poverty
 
 Willpower is like muscle power: it can be trained.
 
-### Ideas
+#### Ideas
 
 1. Fasting
 2. Cold Showering
@@ -131,7 +131,11 @@ Trying to get a girlfriend:
 * Approach / Talk to x girls per week.
 * *Rather* than I have to get a girlfriend at all costs.
 
-### Stoic Checklist
+
+
+### 5. Don't Dwell on the Past
+
+## Stoic Checklist
 
 Am I practicing the psychological techniques of stoicism?
 
@@ -141,7 +145,7 @@ Am I practicing the psychological techniques of stoicism?
 4. Did I refrain from dwelling in the past?
 5. Did I consciously practice acts of self-denial
 
-### Judging our Stoicness - Signs of Progress
+## Judging our Stoicness - Signs of Progress
 
 1. Stop Blaming, Censuring and Praising Others.
 2. Stop Boasting about ourselves and how much we know.
