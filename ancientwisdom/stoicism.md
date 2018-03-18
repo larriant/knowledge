@@ -19,10 +19,12 @@ The _Trichotomy of Control_ says that everything in our mental lives fits into o
    1. The goals that we set ourselves.
    2. The values that we give ourselves.
    3. The character that we build.
+
 2. Things we have no control over
    1. The sun rising tomorrow.
    2. The plane crashing
    3. My eventual death.
+
 3. Things we have partial control over
    1. A tennis match
    2. The love of a partner.
@@ -98,38 +100,40 @@ We have a choice in life: to concern ourselves with things external or things in
 
 A stoic will look for all benefit and harm to come from within himself.
 
-It is best to want those things that are easy to obtain.
+It is best to want those things that are easy to obtain.  
 Ideally only want things that you can be certain of obtaining.
 
-Your primary desire should be:
+Your primary desire should be:  
 Not to be frustrated by forming desires you will not be able to fulfill.
 
-Thus:
-1. No anxiety about whether you will get what you want.
+Thus:  
+1. No anxiety about whether you will get what you want.  
 2. No disappointment at NOT getting what you want.
 
-Even if we succeed in something that is not up to us.
+Even if we succeed in something that is not up to us.  
 We will still be anxious on the way.
 
-*Stoics will set internal rather than external goals.*
+#### Examples of Internal over External Goals
 
-Goal in Tennis Match
-* To play tennis to the best of my ability
-* RATHER than to win at all costs
+1. Goal in Tennis Match:
+   1. To play tennis to the best of my ability.
+   2. **Rather** than to win at all costs.
 
-Wife:
-* To behave in a lovable manner.  
+2. Wife:
+   1. To behave in a lovable manner.
+   2. **Rather** than "My husband must do x"  
 
-Boss:
-* To do my job to the best of my ability.
+3. Boss:
+   1. To do my job to the best of my ability.
+   2. **Rather** than "I must succeed"
 
-A novelist trying to get published:
-* Did I work hard? Did I submit to enough publishers?
-* RATHER than I must get published at all costs
+4. A novelist trying to get published:
+   1. Did I work hard? Did I submit to enough publishers?
+   2. **Rather** than I must get published at all costs
 
-Trying to get a girlfriend:
-* Approach / Talk to x girls per week.
-* *Rather* than I have to get a girlfriend at all costs.
+5. Trying to get a girlfriend:
+   1. Approach / Talk to x girls per week.
+   2. **Rather** than I have to get a girlfriend at all costs.
 
 ### 5. Don't Dwell on the Past
 
@@ -140,26 +144,31 @@ To avoid dwelling on the past we should take on a fatalist attitude.
 * Amor Fati - We should welcome whatever happens to us with open arms.
 
 #### Fatalism about the Past
-Keep firmly in mind that the past cannot be changed.
+
+Keep firmly in mind that the past cannot be changed.  
 Learn to be happy with whatever we got.
 
-We should think about the past but only to learn so we do better in
+We should think about the past but only to learn so we do better in  
 the future.
 
 #### Fatalism about the Present
+
 We have a choice:
+
 * Either spend time wishing the present was different.
 * Or embracing the present.
 
 Mirror Image of Negative Visualization
+
 * Refusing to think about how our present situation could be different.
 
-HOWEVER we should strive to become better people.
+**However** we should strive to become better people.
+
 * To practice stoicism in our lives.
 * And strive to do our social duty.
 
-
 ## Stoic Checklist
+
 Am I practicing the psychological techniques of stoicism?
 
 1. Have I engaged in negative visualizations?
@@ -169,6 +178,7 @@ Am I practicing the psychological techniques of stoicism?
 5. Did I consciously practice acts of self-denial
 
 ## Judging our Stoicness - Signs of Progress
+
 1. Stop Blaming, Censuring and Praising Others.
 2. Stop Boasting about ourselves and how much we know.
 3. Should have fewer desires than before.
@@ -180,17 +190,20 @@ Am I practicing the psychological techniques of stoicism?
 7. More outbursts of Joy!
 
 ### Stoic Advice for Social Relations
-Other people:
-+ Give us some of the best things in life: Love and Friendship.
-- But also are the cause of most of our negative emotions.
 
-Stoics feel like they have a DUTY to form and maintain relationships.
+Other people:
+
+* Give us some of the best things in life: Love and Friendship.
+* But also are the cause of most of our negative emotions.
+
+Stoics feel like they have a **duty** to form and maintain relationships.  
 For it is for this that they were created.
 
-However. We can be selective about who we befriend.
-We should seek friends who share our values.
+However. We can be selective about who we befriend.  
+We should seek friends who share our values.  
 Or ideally are doing a better job of living stoically than we are.
 
 Vices are contageous. Avoid spending time with such people.
 
 Seeksorrow - Someone who contrives to give themselves vexation.
+
