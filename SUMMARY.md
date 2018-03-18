@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Philosophy of Mind](philosophyofmind.md)
 * [Neuroscience](neuroscience.md)
+* [Endocrinology](endocrinology.md)
 * [Ancient Wisdom](ancientwisdsom/ancientwisdom.md)
   * [Stoicism](ancientwisdom/stoicism.md)
 * [Psychology](psychology/psychology.md)

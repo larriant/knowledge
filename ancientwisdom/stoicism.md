@@ -131,12 +131,35 @@ Trying to get a girlfriend:
 * Approach / Talk to x girls per week.
 * *Rather* than I have to get a girlfriend at all costs.
 
-
-
 ### 5. Don't Dwell on the Past
 
-## Stoic Checklist
+To avoid dwelling on the past we should take on a fatalist attitude.
 
+* Fatalist Attitude - We cannot choose our role in the play of life.
+
+* Amor Fati - We should welcome whatever happens to us with open arms.
+
+#### Fatalism about the Past
+Keep firmly in mind that the past cannot be changed.
+Learn to be happy with whatever we got.
+
+We should think about the past but only to learn so we do better in
+the future.
+
+#### Fatalism about the Present
+We have a choice:
+* Either spend time wishing the present was different.
+* Or embracing the present.
+
+Mirror Image of Negative Visualization
+* Refusing to think about how our present situation could be different.
+
+HOWEVER we should strive to become better people.
+* To practice stoicism in our lives.
+* And strive to do our social duty.
+
+
+## Stoic Checklist
 Am I practicing the psychological techniques of stoicism?
 
 1. Have I engaged in negative visualizations?
@@ -146,7 +169,6 @@ Am I practicing the psychological techniques of stoicism?
 5. Did I consciously practice acts of self-denial
 
 ## Judging our Stoicness - Signs of Progress
-
 1. Stop Blaming, Censuring and Praising Others.
 2. Stop Boasting about ourselves and how much we know.
 3. Should have fewer desires than before.
