@@ -14,6 +14,7 @@
   * [Productivity](selfimprovement/productivity.md)
 * Communication
 * [Non Violent Communication](communication/nvc.md)
+* [Three Simultaneous Conversations](threeconversations.md)
 * Psychology
   * [Cognitive Behavioural Therapy](psychology/cbt.md)
 
