@@ -5,6 +5,6 @@
 * [Neuroscience](neuroscience.md)
 * [Ancient Wisdom](ancientwisdsom/ancientwisdom.md)
   * [Stoicism](ancientwisdom/stoicism.md)
-* [Psychology](psychology.md)
-  * [Cognitive Behavioural Therapy](cbt.md)
+* [Psychology](psychology/psychology.md)
+  * [Cognitive Behavioural Therapy](psychology/cbt.md)
 
