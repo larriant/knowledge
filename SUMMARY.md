@@ -4,7 +4,7 @@
 * [Philosophy of Mind](philosophyofmind.md)
 * [Neuroscience](neuroscience.md)
 * [Endocrinology](endocrinology.md)
-* Self Improvement
+* [Self Improvement](self-improvement.md)
   * [Habits](selfimprovement/habits.md)
   * [Planning](selfimprovement/planning.md)
   * [Decisions](selfimprovement/decisions.md)
@@ -12,5 +12,4 @@
   * [Stoicism](ancientwisdom/stoicism.md)
 * Psychology
   * [Cognitive Behavioural Therapy](psychology/cbt.md)
-
 
