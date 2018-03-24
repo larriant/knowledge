@@ -9,8 +9,10 @@ What is tranquility?
 * absence of negative emotions such as grief, anger and anxiety.
 * presence of positive emotions such as joy.
 
-## Stoic Practices
+How to achieve tranquility?
+* Only concern ourselves with things we can control.
 
+## Stoic Practices
 ### 1. Distinguish between the Trichotomy of Control
 
 The _Trichotomy of Control_ says that everything in our mental lives fits into one of three categories:
