@@ -58,7 +58,7 @@ b) Will I get rewarded? Being rewarded is nice.
 
 ### Level 2: Conventional Reasoning
 
-a) Who we be deprived? Do I like them? It's nice to think of others. It's good to be well regarded.
+a) Who will be deprived? Do I like them? It's nice to think of others. It's good to be well regarded.
 
 b) What's the law? What if everyone broke the law? It's nice to have order.
 
