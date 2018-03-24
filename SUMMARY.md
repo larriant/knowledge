@@ -14,6 +14,7 @@
 * [Philosophy of Mind](philosophyofmind.md)
 * [Neuroscience](neuroscience.md)
 * [Endocrinology](endocrinology.md)
-* Psychology
+* [Developmental Psychology](developmentalpsychology.md)
+* Clinical Psychology
   * [Cognitive Behavioural Therapy](psychology/cbt.md)
 
