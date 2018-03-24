@@ -1,6 +1,6 @@
 # Developmental Psychology
 
-What happened during an individual's childhood and fetal life that contributed to the behaviour?
+What happens during an individual's childhood and fetal life that contributes to their behaviour?
 
 # Adolesence
 The final brain region to fully mature is the frontal cortex.
@@ -18,21 +18,35 @@ Outcomes of immature frontal cortex:
 
 # Piaget's Stages of Cognitive Development
 
-1. Sensorimotor stage (birth to ~24 months)
+## 1. Sensorimotor stage (birth to ~24 months)
 
-Thoughts only concern what the child can directly sense and explore.
++ The infant knows the world through their movements and sensations.
++ Children learn about the world through basic actions such as sucking, grasping, looking, and listening.
++ Infants learn that things continue to exist even though they cannot be seen (object permanence).
++ They are separate beings from the people and objects around them.
++ They realize that their actions can cause things to happen in the world around them.
 
-Around 8 months they develop "object permanence". Understanding that even if they can't seen an object it still exists.
+## 2. Preoperational stage (~2 to 7 years)
 
-2. Preoperational stage (~2 years to 7 years)
++ Children begin to think symbolically and learn to use words and pictures to represent objects.
++ Children at this stage tend to be egocentric and struggle to see things from the perspective of others.
++ While they are getting better with language and thinking, they still tend to think about things in very concrete terms.
 
-The child can maintain ideas about how the world works without explicit examples in front of them.
+## 3. Concrete Operational stage (7 to 11 years)
 
-Thoughts are increasingly symbolic. Imaginary play abounds.
++ During this stage, children begin to thinking logically about concrete events.
++ They begin to understand the concept of conservation; that the amount of liquid in a short, wide cup is equal to that in a tall, skinny glass, for example.
++ Their thinking becomes more logical and organized, but still very concrete.
++ Children begin using inductive logic, or reasoning from specific information to a general principle.
 
-3.
+## 4. Formal Operational stage (12 and up)
 
-## Kohlberg Stages of Moral Development
++ At this stage, the adolescent or young adult begins to think abstractly and reason about hypothetical problems.
++ Abstract thought emerges.
++ Teens begin to think more about moral, philosophical, ethical, social, and political issues that require theoretical and abstract reasoning.
++ Begin to use deductive logic, or reasoning from a general principle to specific information.
+    
+# Kohlberg Stages of Moral Development
 
 Should I eat the cooking?
 
