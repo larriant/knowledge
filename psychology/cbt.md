@@ -1,10 +1,11 @@
 # Cognitive Behavioural Therapy
 ## What is Cognitive Therapy?
-1. The first principle of cognitive therapy is that all your moods are created by your ‘cognitions’, or thoughts.
+There are three principles at the core of CBT:
+1. Your moods are created by your ‘cognitions’, or thoughts.
 
-2. The second principle is that when you are feeling depressed, your thoughts are dominated by a pervasive negativity.
+2. When you are feeling depressed, your thoughts are dominated by a pervasive negativity.
 
-3. The third principle is that the negative thoughts which cause your emotional turmoil nearly always contain gross distortions.
+3. The negative thoughts which cause your emotional turmoil nearly always contain gross distortions.
 
 ## What are the gross distortions?
 ### 1. All or Nothing thinking
