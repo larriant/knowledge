@@ -8,6 +8,8 @@
   * [Planning](selfimprovement/planning.md)
   * [Decisions](selfimprovement/decisions.md)
   * [Productivity](selfimprovement/productivity.md)
+  * [Diet](selfimprovement/diet.md)
+  * [Finances](selfimprovement/finances.md)
 * Communication
   * [Non Violent Communication](communication/nvc.md)
   * [Three Simultaneous Conversations](threeconversations.md)
